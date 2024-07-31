@@ -7,7 +7,6 @@ image:
 categories:
     - Resume
 tags:
-    - resume
 weight: 1       # You can add weight to some posts to override the default sorting (date descending)
 ---
 
@@ -32,21 +31,20 @@ knowledge.
 - Working with senior data instructors to support projects and
 assignments.
 
+### AICTE
+**Machine Learning Intern**
+May 2023 – Sept 2023
+
+- Worked on analog and digital signal processing, image processing, filtering, and data analysis using MATLAB.
+- Experimented with deep learning and Google's DeepNet using practical data to understand the workings of neural networks in MATLAB
+
+
 ### TDPVista
 **Research Intern**  
-August 2020 – December 2021
+August 2020 – November 2021
 
 - Built and maintained data science infrastructure with AWS and CloudFormation
 - Enabled machine learning product development by building tools and platforms for data scientists
 - Trained and mentored data scientists in Python tooling and software engineering practice
 - Strategized and led the development of AWS infrastructure for big data usability and accessibility
-
-### Blackberry | Cylance
-**Senior Data Scientist**  
-November 2017 – May 2020
-
-- Led development of feature store using serverless AWS infrastructure
-- Developed and maintained Python packages for data ingestion, cleaning, and standardization
-- Guided data science team in best practices for Python development and software testing
-- Researched machine learning techniques for dynamic detection of malware
 
