@@ -43,8 +43,7 @@ May 2023 – Sept 2023
 **Research Intern**  
 August 2020 – November 2021
 
-- Built and maintained data science infrastructure with AWS and CloudFormation
-- Enabled machine learning product development by building tools and platforms for data scientists
-- Trained and mentored data scientists in Python tooling and software engineering practice
-- Strategized and led the development of AWS infrastructure for big data usability and accessibility
+- Conducted in-depth research on various technologies, analyzing data trends and producing insightful reports for internal and external stakeholders. 
+- Developed articles and content that synthesized complex technical information, enhancing 
+structured thinking and business acumen.
 
